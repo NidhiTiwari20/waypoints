@@ -1,9 +1,9 @@
-package com.spring.waypoints;
+package com.springworks.waypoints;
 
-import com.spring.waypoints.lib.InsuranceCalculator;
-import com.spring.waypoints.lib.JSONFileReader;
-import com.spring.waypoints.model.CategoryDataPoints;
-import com.spring.waypoints.model.Points;
+import com.springworks.waypoints.lib.InsuranceCalculator;
+import com.springworks.waypoints.lib.JSONFileReader;
+import com.springworks.waypoints.model.CategoryDataPoints;
+import com.springworks.waypoints.model.Points;
 
 import java.io.IOException;
 
